@@ -1,4 +1,4 @@
-# background
+# Interactive Food and Drink Order Script
 Showcase of Python basics: Ordering food and drinks
 
 
